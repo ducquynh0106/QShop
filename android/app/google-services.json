@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832111886911",
+    "project_id": "qshop-f6977",
+    "storage_bucket": "qshop-f6977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832111886911:android:ce2510684f2f185a4bee8a",
+        "android_client_info": {
+          "package_name": "com.qshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832111886911-pa75mjua2ocp6d87kd388fvpbida3fso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLy0dLwxbxANRa1EwNrzBcoZUdMo5U8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832111886911-pa75mjua2ocp6d87kd388fvpbida3fso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

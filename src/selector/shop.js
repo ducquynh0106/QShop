@@ -1,0 +1,1 @@
+export const getShopField = (state, field) => state.shop[field];

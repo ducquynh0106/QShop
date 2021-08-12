@@ -1,0 +1,1 @@
+export const getCategoriesField = (state, field) => state.categories[field];
